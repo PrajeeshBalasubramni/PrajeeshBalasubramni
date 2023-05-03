@@ -30,6 +30,8 @@
   • Sharepoint online solutions.
   
 - 📫 How to reach me on Prajeesh.bspz@gmail.com
+
+
 Technical Skills
 • C#: Proficient in developing applications using C# and .NET Frameworks, with experience in both web and desktop development.
 • JavaScript: Skilled in developing front-end applications using JavaScript, including popular frameworks like React and Vue.js.
